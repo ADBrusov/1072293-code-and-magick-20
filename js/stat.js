@@ -27,7 +27,7 @@ var getMaxElement = function (arr) {
 };
 
 var getRandomPercent = function () {
-  var randomPercent = Math.floor(Math.random() * 101) + '%'
+  var randomPercent = Math.floor(Math.random() * 101) + '%';
   return randomPercent;
 };
 
